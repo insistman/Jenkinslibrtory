@@ -1,5 +1,5 @@
 #!groovy
-@Library('Jenkinslibrtory@master') _
+@Library('jenkinslibrtory@master') _
 
 def tools = new org.devops.tools()
 
